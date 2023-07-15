@@ -105,5 +105,4 @@ var change = 0 //Exists because the user has typed in a wrong word
 fullGame();
 
 console.log("-----------------------------------");
-console.log("Thanks for Playing Ms Smoochie I love you!");
-
+console.log("Thanks for Playing!");
