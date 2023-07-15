@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
-JavaScript Practice
 
-Currently does not have a UI, but is fully functioning in the console.
+live: https://mateo-pereira.github.io/Rock-Paper-Scissors/
 
-*Have to make it so the JS does not run until the button is pressed*
+
+Fully functioning Rock, Paper, Scissors with basic UI via console.
